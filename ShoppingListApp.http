@@ -1,6 +1,3 @@
 @ShoppingListApp_HostAddress = http://localhost:5029
 
-GET {{ShoppingListApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
 ###
